@@ -10,7 +10,6 @@
     <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript Logo">
     </a>
     <br>
-    </p>
     <a title="Typescript" href="https://www.typescriptlang.org/">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="Typescript's logo">
     </a>
