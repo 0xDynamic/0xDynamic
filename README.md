@@ -42,5 +42,41 @@
   <a title="Nodejs" href="https://nodejs.org/">
       <img width="35" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo">
   </a>
+  <a title="Npm" href="https://www.npmjs.com/">
+      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" alt="Npm Logo">
+  </a>
+</p>
 
+<p align="center">
+  <a title="Linux" href="https://www.linux.org/">
+    <img width="35" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux Logo">
+  </a>
+  <a title="Terminal" href="https://en.wikipedia.org/wiki/HTTP_404">
+    <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal Logo">
+  </a>
+  <a title="Terminal" href="https://en.wikipedia.org/wiki/HTTP_404">
+    <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal Logo">
+  </a>
+  <a title="C" href="https://www.learn-c.org/">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo">
+  </a>
+  <a title="C++" href="https://www.learncpp.com/">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp Logo">
+  </a>
+  <a title="C#" href="https://www.w3schools.com/cs/default.asp">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
+  </a>
+  <a title="Visual Studio Code" href="https://code.visualstudio.com/">
+    <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VSCode Logo">
+  </a>
+  <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Logo">
+  </a>
+  <a title="Ubuntu" href="https://ubuntu.com/">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo">
+  </a>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&count_private=true&show_icons=true&include_all_commits=true">
 </p>
