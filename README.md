@@ -22,7 +22,7 @@
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="Sass Logo">
     </a>
 </p>
-<h1/>
+<h1>
 <p align="center">
   <a title="Json" href="https://www.json.org/json-en.html">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" alt="Json Logo">
