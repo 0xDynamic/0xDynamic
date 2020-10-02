@@ -51,11 +51,11 @@
   <a title="Linux" href="https://www.linux.org/">
     <img width="35" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux Logo">
   </a>
-  <a title="Terminal" href="https://en.wikipedia.org/wiki/HTTP_404">
+  <a title="Terminal">
     <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal Logo">
   </a>
-  <a title="Terminal" href="https://en.wikipedia.org/wiki/HTTP_404">
-    <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal Logo">
+  <a title="Stylelint" href="https://stylelint.io/">
+    <img width="35" src="https://cdn.worldvectorlogo.com/logos/stylelint.svg" alt="Stylelint Logo">
   </a>
   <a title="C" href="https://www.learn-c.org/">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo">
