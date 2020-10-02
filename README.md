@@ -9,8 +9,16 @@
     <a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="Javascript Logo">
     </a>
-    <br>
     <a title="Typescript" href="https://www.typescriptlang.org/">
-      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="Typescript's logo">
+      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="Typescript Logo">
+    </a>
+    <a title="Html" href="https://www.w3.org/html/">
+      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html Logo">
+    </a>
+    <a title="Css" href="https://css-tricks.com/">
+      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css Logo">
+    </a>
+    <a title="Sass" href="https://sass-lang.com/">
+      <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="Sass Logo">
     </a>
 </p>
