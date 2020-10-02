@@ -22,7 +22,7 @@
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="Sass Logo">
     </a>
 </p>
-&nbsp;
+<h1/>
 <p align="center">
   <a title="Json" href="https://www.json.org/json-en.html">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" alt="Json Logo">
@@ -38,6 +38,9 @@
   </a>
   <a title="Git" href="https://git-scm.com/">
       <img width="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo">
+  </a>
+  <a title="Nodejs" href="https://nodejs.org/">
+      <img width="35" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo">
   </a>
 
 </p>
