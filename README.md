@@ -78,5 +78,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&count_private=true&show_icons=true&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
+<a href="https://github.com/ChinoCenToS?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
