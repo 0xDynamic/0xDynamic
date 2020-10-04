@@ -123,9 +123,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&theme=highcontrast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&layout=compact&show_icons=true&theme=highcontrast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&layout=compact&show_icons=true&theme=tokyonight">
 </p>
