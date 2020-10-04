@@ -123,5 +123,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&theme=tokyonight)">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&theme=tokyonight)"
 </p>
