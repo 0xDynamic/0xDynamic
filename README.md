@@ -5,13 +5,13 @@
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
 </p>
 <p align="center">
 <img src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=2">
 </p>
-<p align="right">
+<p align="center">
 <img src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=1">
 </p>
 
