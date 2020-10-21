@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+    <img align="center" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
+</p>
+
+<p align="center">
   <a title="C" href="https://www.learn-c.org/">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo">
   </a>
@@ -128,8 +132,4 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&theme=dracula&show_icons=true">
-</p>
-
-<p align="center">
-    <img align="center" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
 </p>
