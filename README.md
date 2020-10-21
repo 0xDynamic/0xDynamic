@@ -5,11 +5,9 @@
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 </p>
 
-<p align="center">
-    <img align="left" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
-    <img align="center" src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=2">
-    <img align="right" src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=1">
-</p>
+<img align="left" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
+<img align="center" src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=2">
+<img align="right" src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=1">
 
 <p align="center">
   <a title="C" href="https://www.learn-c.org/">
