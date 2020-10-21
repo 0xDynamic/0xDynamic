@@ -7,8 +7,9 @@
 
 <p align="center">
 <img src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
-<img src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=2">
+<img src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=27">
 <img src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=1">
+<img src="https://api.alexflipnote.dev/challenge?text=Legends+never+die,+RoseryRET&icon=44">
 </p>
 
 <p align="center">
