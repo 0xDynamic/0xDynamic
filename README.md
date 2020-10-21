@@ -130,4 +130,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&theme=dracula&show_icons=true">
 </p>
 
-![challenge_yes](https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10)
+<p align="center">
+    <img align="center" ![challenge_yes](https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10)>
+</p>
