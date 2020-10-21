@@ -131,5 +131,5 @@
 </p>
 
 <p align="center">
-    <img align="center" ![challenge_yes](https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10)>
+    <img align="center" src="![challenge_yes](https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10)">
 </p>
