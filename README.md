@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
+    <img align="left" src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
+    <img align="center" src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=2">
+    <img align="center" src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=1">
 </p>
 
 <p align="center">
