@@ -4,6 +4,7 @@
 <p align="center">
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
     <img src="https://img.shields.io/github/followers/chinocentos?label=Followers&logoColor=FC035A&style=social" alt="Followers">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif">
 </p>
 
 <p align="center">
