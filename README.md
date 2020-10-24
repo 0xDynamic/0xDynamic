@@ -3,6 +3,7 @@
 
 <p align="center">
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
+    <img src="https://img.shields.io/github/followers/chinocentos?style=for-the-badge" alt="Followers">
 </p>
 
 <p align="center">
