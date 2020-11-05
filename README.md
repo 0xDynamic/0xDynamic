@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
-    <img src="https://img.shields.io/github/followers/chinocentos?label=Followers&logoColor=FC035A&style=social" alt="Followers">
+    <img src="https://img.shields.io/github/followers/0xdynamic?label=Followers&logoColor=FC035A&style=social" alt="Followers">
     <img src="https://img.shields.io/badge/Pro-Developer-FC035A" alt="PRO">
 </p>
 
@@ -132,9 +132,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinoCenToS&show_icons=true&theme=synthwave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDynamic&show_icons=true&theme=synthwave">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCenToS&theme=dracula&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&theme=dracula&show_icons=true">
 </p>
