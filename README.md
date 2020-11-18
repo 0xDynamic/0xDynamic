@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+    <img src="https://profile-counter.glitch.me/ytmcgamer/count.svg" />
+</p>
+
+<p align="center">
 <img src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
 <img src="https://api.alexflipnote.dev/challenge?text=The+GOAT+in+coding&icon=27">
 <img src="https://api.alexflipnote.dev/challenge?text=Enthusiast+pepe+hackerman&icon=13">
