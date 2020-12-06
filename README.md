@@ -12,13 +12,6 @@
 </p>
 
 <p align="center">
-<img src="https://api.alexflipnote.dev/challenge?text=Made+you+read,+lol&icon=10">
-<img src="https://api.alexflipnote.dev/challenge?text=1337,+Yoinks&icon=27">
-<img src="https://api.alexflipnote.dev/challenge?text=1337,+Yoinks&icon=13">
-<img src="https://api.alexflipnote.dev/challenge?text=1337,+Yoinks&icon=44">
-</p>
-
-<p align="center">
   <a title="C" href="https://www.learn-c.org/">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo">
   </a>
