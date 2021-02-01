@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Chino</h1>
 <h3 align="center">🥀Front-end | Back-end Developer 🥀</h3>
 
+- 🥀 Currently working in RoseryRET </>
+- 💻 Love to break things
+- 😊 Willing to contribute in opensource development projects
+
 <p align="center">
     <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
     <img src="https://img.shields.io/github/followers/0xdynamic?label=Followers&logoColor=FC035A&style=social" alt="Followers">
@@ -63,9 +67,6 @@
     <a title="Github" href="https://github.com">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github Logo">
   </a>
-  <a title="Nodejs" href="https://nodejs.org/">
-      <img width="35" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo">
-  </a>
   <a title="Npm" href="https://www.npmjs.com/">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" alt="Npm Logo">
   </a>
@@ -93,29 +94,24 @@
   <a title="Editorconfig" href="https://editorconfig.org/">
       <img width="35" src="https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png" alt="Editor-Config Logo">
   </a>
+    
   <a title="Terminal">
     <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal Logo">
-  </a>
-  <a title="Express" href="https://expressjs.com/">
-      <img width="35" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express logo" />
   </a>
 </p>
 
 <p align="center">
-  <a title="Linux" href="https://www.linux.org/">
-    <img width="35" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="Linux Logo">
-  </a>
   <a title="Visual Studio Code" href="https://code.visualstudio.com/">
     <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VSCode Logo">
   </a>
   <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Logo">
   </a>
+   <a title="Haskell" href="https://www.haskell.org/">
+    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell.svg" alt="VS Logo">
+  </a>
   <a title="Ubuntu" href="https://ubuntu.com/">
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo">
-  </a>
-  <a title="MongoDB" href="https://www.mongodb.com/">
-      <img width="35" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" />
   </a>
   <a title="Heroku" href="https://heroku.com/">
       <img width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" alt="Heroku logo" />
@@ -128,10 +124,24 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDynamic&show_icons=true&theme=synthwave">
-</p>
 
+---
+
+<details open>
+    <summary> 😇 <b>My Github Stats</b>: </summary>
+    <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&theme=dracula&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xDynamic&show_icons=true&line_height=27&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&theme=dracula&show_icons=true&hide=css">
 </p>
+    </details>
+
+<details open>
+    <summary> 🤝 <b>Some repos lol</b></summary>
+    <br>
+    <p align="center">
+        <a href="https://github.com/0xDynamic/AntiDe4dot-Standalone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=AntiDe4dot-Standalone&theme=dracula"/></a>
+        <a href="https://github.com/0xDynamic/Linkvertise-Bypasser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=Linkvertise-Bypasser&theme=dracula"/></a>
+    </p>
+    </details>
+    
