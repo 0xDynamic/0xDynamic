@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+<h1 align="center"></h1>
 
 <details open>
     <summary> 😇 <b>My Github Stats</b>: </summary>
