@@ -130,7 +130,7 @@
     <summary> 😇 <b>My Github Stats</b>: </summary>
     <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xDynamic&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xDynamic&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&show_icons=true&hide=css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
     </details>
