@@ -139,8 +139,8 @@
     <summary> 🤝 <b>Some repos lol</b></summary>
     <br>
     <p align="center">
-        <a href="https://github.com/0xDynamic/AntiDe4dot-Standalone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=AntiDe4dot-Standalone&theme=dracula"/></a>
-        <a href="https://github.com/0xDynamic/Linkvertise-Bypasser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=Linkvertise-Bypasser&theme=dracula"/></a>
+        <a href="https://github.com/0xDynamic/AntiDe4dot-Standalone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=AntiDe4dot-Standalone&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"/></a>
+        <a href="https://github.com/0xDynamic/Linkvertise-Bypasser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=Linkvertise-Bypasser&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"/></a>
     </p>
     </details>
     
