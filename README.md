@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://thighsarebest.me/RET/index.html"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
+    <a href="https://thighsarebest.me/RET"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord+User&color=36393f&style=flat-square" alt="Discord"></a>
 </p>
 
 <p align="center">
@@ -43,3 +43,13 @@
     </p>
     </details>
     
+```
+                                          $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
+                                        $$$$ |  $$ ___$$\ $$ ___$$\ \____$$  |
+                                        \_$$ |  \_/   $$ |\_/   $$ |    $$  / 
+                                          $$ |    $$$$$ /   $$$$$ /    $$  /  
+                                          $$ |    \___$$\   \___$$\   $$  /   
+                                          $$ |  $$\   $$ |$$\   $$ | $$  /    
+                                        $$$$$$\ \$$$$$$  |\$$$$$$  |$$  /     
+                                        \______| \______/  \______/ \__/
+```
