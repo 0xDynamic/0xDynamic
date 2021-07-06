@@ -24,6 +24,8 @@
 </p>
 
 <h1 align="center"></h1>
+        
+<p align="center"><img src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif" width="500px" height="600px" /> </p> 
 
 <details open>
     <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -32,16 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xDynamic&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&show_icons=true&hide=css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-    </details>
-
-<details open>
-    <summary> 🤝 <b>Some repos lol</b></summary>
-    <br>
-    <p align="center">
-        <a href="https://github.com/0xDynamic/AntiDe4dot-Standalone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=AntiDe4dot-Standalone&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"/></a>
-        <a href="https://github.com/0xDynamic/Linkvertise-Bypasser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDynamic&repo=Linkvertise-Bypasser&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"/></a>
-    </p>
-    </details>
+</details>
     
 ```
                                           $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
