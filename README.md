@@ -2,7 +2,7 @@
 <h3 align="center">🥀 Enthusiast Reverse Engineer 🥀</h3>
 
 <p align="center">
-    <a>🥀 Currently working in RoseryRET </><a>
+    <a>🥀 Currently working for some big projects</><a>
     <br>
     <a>💻 Love to break things<a>
 </p>
