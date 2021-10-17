@@ -29,7 +29,7 @@
         </center>
 <h1 align="center"></h1>
 
-<details open>
+<details>
     <summary> 😇 <b>My Github Stats</b>: </summary>
     <br>
 <p align="center">
