@@ -2,7 +2,7 @@
 <h3 align="center">🥀 Enthusiast Reverse Engineer 🥀</h3>
 
 <p align="center">
-    <a>🥀 Currently working for some big projects</><a>
+    <em>💼 Currently working for some big projects<em>
     <br>
     <a>💻 Love to break things !<a>
 </p>
@@ -23,10 +23,10 @@
       </a>
 </p>
         
-<h1 align="center"></h1>
-        
-<p align="center"><img src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif" width="500px" height="600px" /></p>
-
+<h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
+        <center>
+            <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.<br><br>- On the mysterious, it is the fundamental emotion which stands at the cradle of true art and true science. "He" who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle</em>
+        </center>
 <h1 align="center"></h1>
 
 <details open>
