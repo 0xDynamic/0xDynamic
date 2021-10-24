@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Chino%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://dsc.bio/chofu">
+        <img src="https://img.shields.io/badge/Chino%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
 </p>
 
 <p align="center">
