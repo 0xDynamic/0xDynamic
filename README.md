@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://dsc.bio/chofu">
-        <img src="https://img.shields.io/badge/Chino%231337-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://storeroblox.com/Chino">
+        <img src="https://img.shields.io/badge/Chino%239999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
 
