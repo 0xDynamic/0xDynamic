@@ -1,10 +1,8 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> , I'm Chino <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">🥀 Enthusiast Reverse Engineer 🥀</h3>
+<h3 align="center">Enthusiast Reverse Engineer, Full Stack Developer, Malware Analysis</h3>
 
 <p align="center">
-    <em>💼 Currently working for some big projects<em>
-    <br>
-    <a>💻 Love to break things !<a>
+    <a>💻 Love to reverse engineer and break things !<a>
 </p>
 
 <p align="center">
