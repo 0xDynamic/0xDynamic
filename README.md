@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://storeroblox.com/Chino">
+    <a href="https://chino.network/">
         <img src="https://img.shields.io/badge/Chino%236969-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
