@@ -28,15 +28,6 @@
             <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.<br><br>- On the mysterious, it is the fundamental emotion which stands at the cradle of true art and true science. "He" who knows it not and can no longer wonder, no longer feel amazement, is as good as dead, a snuffed-out candle</em>
         </center>
 <h1 align="center"></h1>
-
-<details>
-    <summary> 😇 <b>My Github Stats</b>: </summary>
-    <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xDynamic&line_height=27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&show_icons=true&hide=css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
-</details>
     
 ```
                                           $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
