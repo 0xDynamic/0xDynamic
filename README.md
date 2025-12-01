@@ -1,7 +1,7 @@
 <div align="center" style="margin-bottom:40px;">
 
 <p align="center">
-  <img src=".github/cards/gradient-header.svg" width="600">
+  <img src=".github/cards/gradient-header.svg" width="800" alt="Hello world, I'm Chino">
 </p>
 
 <p style="font-size:1.15rem; color:#b4b4b4; max-width:600px;font-style: bold;">
@@ -10,16 +10,10 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src=".github/cards/what-i-do.svg" width="420" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src=".github/cards/mission.svg" width="420" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src=".github/cards/what-i-do.svg" width="420" hspace="8" />
+  <img src=".github/cards/mission.svg" width="420" hspace="8" />
+</div>
 
 ## 🛠 Tech Stack
 
