@@ -10,10 +10,16 @@
 
 </div>
 
-<div align="center">
-  <img src=".github/cards/what-i-do.svg" width="420" hspace="8" />
-  <img src=".github/cards/mission.svg" width="420" hspace="8" />
-</div>
+<table align="center" style="border-collapse:collapse; border:none;">
+  <tr>
+    <td align="center" style="border:none; padding: 0 8px;">
+      <img src=".github/cards/what-i-do.svg" width="420" alt="What I do - Chino" />
+    </td>
+    <td align="center" style="border:none; padding: 0 8px;">
+      <img src=".github/cards/mission.svg" width="420" alt="Mission - Chino" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
