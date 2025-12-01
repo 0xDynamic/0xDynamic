@@ -4,8 +4,8 @@
   <img src=".github/cards/gradient-header.svg" width="800" alt="Hello world, I'm Chino">
 </p>
 
-<p style="font-size:1.15rem; color:#b4b4b4; max-width:600px;font-style: bold;">
-  Enthusiast Reverse Engineering · Full-Stack Developer · Security Engineering
+<p align="center">
+  <img src=".github/cards/subtitle.svg" width="800" alt="Chino subtitle" />
 </p>
 
 </div>
